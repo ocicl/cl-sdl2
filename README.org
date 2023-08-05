@@ -4,6 +4,6 @@ Common Lisp bindings for SDL2 using C2FFI.
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/lispgames/cl-sdl2.git |
-| commit  | 336ae28                                      |
+| commit  | 485c8ab                                      |
 | systems | sdl2                                         |
 |---------+----------------------------------------------|
